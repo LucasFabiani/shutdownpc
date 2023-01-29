@@ -1,2 +1,2 @@
 @ECHO OFF
-time /t >> C:\Users\Cliente\Documents\task\logs.txt
+echo "jaja" >> C:\Users\Cliente\Documents\task\logs.txt
