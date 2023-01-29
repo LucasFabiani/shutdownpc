@@ -1,2 +1,1 @@
-@ECHO OFF
-echo "jajaxd" >> C:\Users\Cliente\Documents\task\logs.txt
+true
